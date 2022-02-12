@@ -1,0 +1,1 @@
+This folder holds ALL images used in my website. Upload all images here.
